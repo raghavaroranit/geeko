@@ -1,5 +1,5 @@
 def main():
-    url = '<webhook URL>' ## Provude the webhook URL
+    url = '<webhook URL>' ## Provide the webhook URL
     bot_message = {
         'text' : 'XYZ'} ## Provide the message
 
